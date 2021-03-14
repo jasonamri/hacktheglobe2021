@@ -1,2 +1,2 @@
-# hacktheglobe2021
+# Hack the Globe 2021
 Meet Argent!
