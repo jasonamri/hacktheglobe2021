@@ -1,2 +1,2 @@
-# Hack the Globe 2021
-Meet Argent!
+# Introducing Argent: An accessible loan/financing and farming advice SMS bot to help create more stable farms and economies in rural regions
+Argent is an easy-to-use platform that empowers farmers to get connected with a loan that meets their needs based on their crop, annual yield, weather patterns, location and more to ensure a credible rate for both the farm and the lenders. In addition to this, we reactivate interactions daily to ensure they can keep up with farming recommendations (weather impacts) or financial advice (budgeting) through a simple, personable SMS chat bot.
